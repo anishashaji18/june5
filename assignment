@@ -1,0 +1,25 @@
+<html>
+    <head>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    </head>
+    <body>
+              <h1 id="title">title</h1>
+              <p class="paragraph">paragraph text 1</p>
+              <p class="paragraph">paragraph text 2</p>
+              <p class="paragraph">paragraph text 3</p>
+              <input type="text">     </input>
+              <ul>
+                  <li>list element</li>
+                  <li>list element</li>
+                  <li>list element</li>
+                  <li>list element</li>
+                  <li>list element</li>
+
+              </ul>
+                                        <script>
+                                            $("p").css("outline","1px solid red");
+                                               </script>
+
+    </body>
+</html>
